@@ -1,8 +1,4 @@
-# Hola mi nombre es Nilson Nathan Mejia Ascencio
-# Soy un Estudiante de Ingeniería en Sistemas
-# Con conocimientos en Sistemas Operativos, Bases de Datos, Java, C# (WinForms) y .NET.
-# Actualmente desarrollando proyectos académicos y personales que refuerzan mi formación como desarrollador.
-# Inglés básico y en proceso de mejora. Siempre motivado por aprender y crecer en el mundo del desarrollo de software.
+# Hola mi nombre es Nilson Nathan Mejia Ascencio, Soy un Estudiante de Ingeniería en Sistemas con conocimientos en Sistemas Operativos, Bases de Datos, Java, C# (WinForms) y .NET, actualmente desarrollando proyectos académicos y personales que refuerzan mi formación como desarrollador.Inglés básico y en proceso de mejora. Siempre motivado por aprender y crecer en el mundo del desarrollo de software.
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
